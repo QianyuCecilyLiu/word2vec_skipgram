@@ -1,6 +1,6 @@
 # word2vec skipgram model
 
-Break skipgram model into steps to see how it converts words into vectors
+Break skipgram model into steps
 
 - Step 1
   - Slide predefined windows to find match word pairs. The relationship should be 1 to 1 and let's assume there are totally m pairs in the form of (target word, close word).
